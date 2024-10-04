@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saudkazuma/static/css/main.e3749eb7.css",
+    "main.js": "/saudkazuma/static/js/main.4054afe7.js",
+    "static/media/Demo.mp4": "/saudkazuma/static/media/Demo.31b74d1934dda017c9da.mp4",
+    "static/media/ra.png": "/saudkazuma/static/media/ra.9506c829d885d0fbb806.png",
+    "static/media/react.png": "/saudkazuma/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/CV1.pdf": "/saudkazuma/static/media/CV1.2da27fa2b9e508989dc3.pdf",
+    "static/media/python.png": "/saudkazuma/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/elephant.png": "/saudkazuma/static/media/elephant.137221a503722cacd056.png",
+    "static/media/github.png": "/saudkazuma/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/saudkazuma/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/saudkazuma/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/saudkazuma/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/saudkazuma/index.html",
+    "main.e3749eb7.css.map": "/saudkazuma/static/css/main.e3749eb7.css.map",
+    "main.4054afe7.js.map": "/saudkazuma/static/js/main.4054afe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3749eb7.css",
+    "static/js/main.4054afe7.js"
+  ]
+}
