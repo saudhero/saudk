@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/saudkazuma/static/css/main.3262ff54.css",
-    "main.js": "/saudkazuma/static/js/main.c4cbdd85.js",
-    "static/media/Demo.mp4": "/saudkazuma/static/media/Demo.31b74d1934dda017c9da.mp4",
-    "static/media/ra.png": "/saudkazuma/static/media/ra.9506c829d885d0fbb806.png",
-    "static/media/CV SAUD ALGHAMDI.pdf": "/saudkazuma/static/media/CV SAUD ALGHAMDI.ae6655b52901fe85039b.pdf",
-    "static/media/react.png": "/saudkazuma/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/python.png": "/saudkazuma/static/media/python.6a5cbc319ab3ddf8ef92.png",
-    "static/media/elephant.png": "/saudkazuma/static/media/elephant.137221a503722cacd056.png",
-    "static/media/github.png": "/saudkazuma/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/saudkazuma/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/saudkazuma/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/saudkazuma/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/saudkazuma/index.html",
-    "main.3262ff54.css.map": "/saudkazuma/static/css/main.3262ff54.css.map",
-    "main.c4cbdd85.js.map": "/saudkazuma/static/js/main.c4cbdd85.js.map"
+    "main.css": "/saudk/static/css/main.3262ff54.css",
+    "main.js": "/saudk/static/js/main.993c2140.js",
+    "static/media/Demo.mp4": "/saudk/static/media/Demo.31b74d1934dda017c9da.mp4",
+    "static/media/ra.png": "/saudk/static/media/ra.9506c829d885d0fbb806.png",
+    "static/media/CV SAUD ALGHAMDI.pdf": "/saudk/static/media/CV SAUD ALGHAMDI.ae6655b52901fe85039b.pdf",
+    "static/media/react.png": "/saudk/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/python.png": "/saudk/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/elephant.png": "/saudk/static/media/elephant.137221a503722cacd056.png",
+    "static/media/github.png": "/saudk/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/saudk/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/saudk/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/saudk/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/saudk/index.html",
+    "main.3262ff54.css.map": "/saudk/static/css/main.3262ff54.css.map",
+    "main.993c2140.js.map": "/saudk/static/js/main.993c2140.js.map"
   },
   "entrypoints": [
     "static/css/main.3262ff54.css",
-    "static/js/main.c4cbdd85.js"
+    "static/js/main.993c2140.js"
   ]
 }
